@@ -1,0 +1,2 @@
+* When assigning a user to a doc as the owner, the owner column is populated with the userid from the 'users' table
+* When assigning a Group as the owner of a doc, the ownergroup column is populated with the groupid from the 'group' table and not the owner column
